@@ -20,14 +20,14 @@ This is a **starter template** for quickly setting up a Vue 3 project with Vite,
 
 ```
 my-project/
-├── src/
-│   ├── components/
-│   │   └── MyComponent.vue    // A simple Vue component
-│   └── App.vue              // The main application component
-├── public/
-│   └── index.html           // The main HTML file
-├── package.json             // Project dependencies and scripts
-└── README.md                // Project documentation
+    src/
+        components/
+            MyComponent.vue    // A simple Vue component
+        App.vue              // The main application component
+    public/
+    index.html           // The main HTML file
+    package.json             // Project dependencies and scripts
+    README.md                // Project documentation
 ```
 
 <!-- ```vite-vue-ts-linted-starter/ │── node_modules/ # Installed dependencies │── public/ # Static assets │── src/ # Source code │ ├── assets/ # Images, icons, etc. │ ├── components/ # Vue components │ ├── views/ # Page components │ ├── App.vue # Root component │ ├── main.ts # Entry point │── .eslintrc.cjs # ESLint configuration │── .prettierrc # Prettier configuration │── tsconfig.json # TypeScript configuration │── vite.config.ts # Vite configuration │── package.json # Dependencies and scripts │── README.md # Project documentation
